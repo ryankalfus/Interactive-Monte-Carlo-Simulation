@@ -6,7 +6,7 @@ The simulation updates dynamically as the number of random points changes, allow
 
 ---
 
-## 📐 How the Monte Carlo Method Approximates π
+## How the Monte Carlo Method Approximates π
 
 A circle of radius 1 is inscribed inside a square of side length 2.
 
@@ -21,7 +21,7 @@ As more random points are sampled, the ratio converges toward the true value of 
 
 ---
 
-## 🎛️ Features
+## Features
 
 * Interactive input to control the number of random points
 * Real-time graphical visualization
@@ -34,15 +34,15 @@ As more random points are sampled, the ratio converges toward the true value of 
 
 ---
 
-## 🚀 How to Run
+## How to Run: 2 Ways
 
-### Option 1: Google Colab (Recommended)
+### 1: Google Colab (Recommended)
 
 1. Open the notebook in Google Colab
 2. Run all cells
 3. Enter the desired number of points in the input box
 
-### Option 2: Local Jupyter Notebook
+### 2: Local Jupyter Notebook
 
 ```bash
 pip install numpy matplotlib ipywidgets
@@ -57,7 +57,7 @@ jupyter nbextension enable --py widgetsnbextension
 
 ---
 
-## 🧪 Example Output
+## Output Display
 
 * Scatter plot showing random points
 * Numerical π approximation updated each run
@@ -65,7 +65,7 @@ jupyter nbextension enable --py widgetsnbextension
 
 ---
 
-## 📚 Concepts Demonstrated
+## Concepts Shown
 
 * Monte Carlo methods
 * Random sampling
@@ -76,7 +76,7 @@ jupyter nbextension enable --py widgetsnbextension
 
 ---
 
-## 🎯 Educational Use
+## Educational Use
 
 This project is well-suited for:
 
@@ -87,7 +87,7 @@ This project is well-suited for:
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 * Python
 * NumPy
