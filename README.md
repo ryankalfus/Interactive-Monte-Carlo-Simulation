@@ -1,4 +1,3 @@
-# Interactive-Monte-Carlo-Simulation
 # Interactive Monte Carlo π Approximation
 
 This project is an interactive Python visualization that approximates the value of π (pi) using the **Monte Carlo method**. Random points are generated inside a square, and the fraction that fall inside an inscribed circle is used to estimate π.
